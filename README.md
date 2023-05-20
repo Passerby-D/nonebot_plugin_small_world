@@ -1,0 +1,2 @@
+# nonebot_plugin_small_world
+游戏王小世界现象小助手
